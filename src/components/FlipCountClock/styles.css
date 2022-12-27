@@ -1,0 +1,10 @@
+.flip-clock {
+  --fcc-flip-duration: 0.5s; /* transition duration when flip card */
+  --fcc-digit-block-width: 40px; /* digit card's width */
+  --fcc-digit-block-height: 64px; /* digit card's height */
+  --fcc-digit-font-size: 50px; /* font size of digit */
+  --fcc-digit-color: white; /* color of digit */
+  --fcc-background: #ff3300; /* digit card's background */
+  --fcc-label-color: #ffffff; /* time label's color */
+  --fcc-divider-color: #ffffff66; /* divider's color */
+}

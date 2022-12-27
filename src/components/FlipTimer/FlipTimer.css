@@ -1,0 +1,17 @@
+h1{
+  color: #ff6961;
+}
+.title{
+  display: none;
+}
+.flip-clock-wrapper ul {
+  width: 60px;
+  height: 90px;
+}
+
+
+.flip-clock-wrapper .inn {
+  background-color: #00ffdd;
+  font-size: 70px;
+  color: #ff6961;
+}
